@@ -242,3 +242,6 @@ This repository serves as the official landing page for **Soda PDF 3D Reader**. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Soda PDF 3D Reader today!**
+
+---
+**Last updated:** 2026-09-09 12:30:49 UTC
