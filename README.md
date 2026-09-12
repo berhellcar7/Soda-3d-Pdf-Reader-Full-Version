@@ -244,4 +244,4 @@ This repository serves as the official landing page for **Soda PDF 3D Reader**. 
 **Get the most recent version of Soda PDF 3D Reader today!**
 
 ---
-**Last updated:** 2026-09-12 13:11:33 UTC
+**Last updated:** 2026-09-12 16:34:52 UTC
